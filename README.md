@@ -1,2 +1,8 @@
-# haxe-createjs-fd-project
-FlashDevelop Project Template for Haxe CreateJS
+Haxe [CreateJS](http://lib.haxe.org/p/createjs-full/) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)
+========================
+
+### Installation
+
+Download the latest release. Open the .fdz file with FlashDevelop.
+
+https://github.com/SlavaRa/haxe-createjs-fd-project/releases
