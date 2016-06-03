@@ -7,10 +7,10 @@ Download the latest release. Open the .fdz file with FlashDevelop.
 
 https://github.com/SlavaRa/haxe-createjs-fd-project/releases
 
-next
+### Requirements 
 
-haxelib install createjs-full
+haxelib [createjs-full](http://lib.haxe.org/p/createjs-full/)
 
-next
+### Usage 
 
 Launch FlashDevelop, create New Project, select Haxe - CreateJS project, Run and enjoy...
