@@ -6,7 +6,7 @@ import js.Browser;
 /**
 $(CBI)* @author $(DefaultUser)
 $(CBI)*/
-class Main extends Application $(CSLB){
+class Main $(CSLB){
 	
 	static function main() $(CSLB){
 		var canvas = Browser.document.getElementById("canvas");
