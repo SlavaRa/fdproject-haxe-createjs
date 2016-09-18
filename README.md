@@ -3,9 +3,7 @@ Haxe [CreateJS](http://lib.haxe.org/p/createjs-full/) Application Project Templa
 
 ### Installation
 
-Download the latest release. Open the .fdz file with FlashDevelop/HaxeDevelop.
-
-https://github.com/SlavaRa/haxe-createjs-fd-project/releases
+Download [the latest release](https://github.com/SlavaRa/haxe-createjs-fd-project/releases). Open the .fdz file with FlashDevelop.
 
 ### Requirements 
 
