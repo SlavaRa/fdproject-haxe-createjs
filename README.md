@@ -1,4 +1,4 @@
-Haxe [CreateJS](http://lib.haxe.org/p/createjs-full/) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)/[HaxeDevelop](http://www.haxedevelop.org/)
+Haxe [CreateJS](http://lib.haxe.org/p/createjs-full/) Application Project Template for [FlashDevelop](http://flashdevelop.org)/[HaxeDevelop](https://haxedevelop.org/)
 ========================
 
 ### Installation
